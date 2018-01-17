@@ -1,4 +1,4 @@
-# vue-cos-js
+# vue-qcloud-cos-js-todo
 
 > 这是一个todo程序  
 > 腾讯云COS的Vue示例  
